@@ -11,6 +11,4 @@ Petunjuk:
 
 Struktur Folder : 
 - `Clustering Pelanggan Mall` : Folder ini berisi dataset dan kode tugas ini
-- `etc.` : Folder ini berisi requirement yang dibutuhkan untuk menjalankan kodingan tugas ini dan gitignore untuk kebutuhan git.
 
-Terima kasih
